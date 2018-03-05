@@ -1,0 +1,21 @@
+#home {
+  background: url(../img/river.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow:hidden;
+}
+
+.nav-link {
+  color:#f7902a;
+}
+
+.nav-item {
+  background-color: black;
+  flex:auto;
+}
+
+h1 .link {
+  font-size: 100px;
+  color:#fff;
+
+}
