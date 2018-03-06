@@ -2,12 +2,14 @@
   background: url(../img/river.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100%;
-  overflow:hidden;
+
 }
+
 
 .nav-link {
   color:#f7902a;
 }
+
 
 .nav-item {
   background-color: black;
@@ -18,4 +20,50 @@ h1 .link {
   font-size: 100px;
   color:#fff;
 
+}
+h1{
+  text-align: center;
+  color:#f7902a;
+}
+
+li: .cinema {
+  font-family: fantasy;
+  font-size: 50px;
+  color:#f7902a;
+
+}
+
+
+
+.this {
+  color:#f7902a;
+  font-size: 50px;
+  text-align: center;
+}
+
+.recent h1, .cinema {
+  font-style: italic;
+  text-align: center;
+  font-size: 50px;
+  color: #f7902a;
+  
+}
+
+p.name
+ {
+  color: #f7902a;
+  font-size: 80px;
+  padding-bottom: 70px;
+
+}
+
+.main {
+  font-size: 75px;
+  color:#f7902a;
+}
+
+.pic img {
+  height: 500px;
+  width: 500px;
+  align-self: center;
 }
