@@ -41,12 +41,13 @@ li: .cinema {
   text-align: center;
 }
 
-.recent h1, .cinema {
+.recent h1,ul .cinema {
   font-style: italic;
   text-align: center;
   font-size: 50px;
   color: #f7902a;
-  
+  list-style: none;
+
 }
 
 p.name
